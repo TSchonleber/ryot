@@ -1,6 +1,6 @@
 # $RYOT
 
-Charity site for the $RYOT memecoin. 90% of fees fund the [Northshore Humane Society](https://www.northshorehumane.org/), a Louisiana no-kill animal rescue.
+Charity site for the $RYOT memecoin. 90% of fees fund [North Shore Animal League America](https://www.animalleague.org/) — the world's largest no-kill animal rescue.
 
 Ryot's the example. Most animals don't get the chance he got. The coin exists so more do.
 

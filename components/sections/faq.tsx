@@ -97,7 +97,7 @@ const FAQS: FaqItem[] = [
             rel="noopener noreferrer"
             className="text-text-primary underline underline-offset-4 decoration-accent/50 hover:decoration-accent transition-colors duration-150"
           >
-            northshorehumane.org
+            animalleague.org
           </a>
           . Every dollar goes straight to them.
         </p>

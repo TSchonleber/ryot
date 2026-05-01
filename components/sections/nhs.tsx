@@ -1,9 +1,7 @@
 import { CHARITY } from "@/lib/charity";
 import { Reveal } from "@/components/reveal";
 
-// NHS logo can be added at /public/nhs-logo.svg once permission is confirmed.
-// Replace the text-only block with:
-//   <img src="/nhs-logo.svg" alt={CHARITY.name} className="h-12 mb-8" />
+// Charity logo can be added at /public/charity-logo.svg once permission is confirmed.
 
 export function Nhs() {
   return (
@@ -20,7 +18,7 @@ export function Nhs() {
 
         <Reveal delay={0.08}>
           <h2 className="font-display text-4xl sm:text-5xl text-text-primary leading-tight mb-8">
-            Northshore Humane Society.
+            {CHARITY.name}.
           </h2>
         </Reveal>
 
@@ -28,10 +26,10 @@ export function Nhs() {
           <div className="space-y-5 text-text-secondary text-lg leading-relaxed font-body">
             <p>{CHARITY.mission}</p>
             <p>
-              Based in {CHARITY.location}, they serve one of the state&apos;s
-              most underserved regions for animal welfare. They take in dogs
-              and cats that arrive injured, sick, or out of time, and give
-              them the chance to find homes.
+              Based in {CHARITY.location}, they run mobile adoption units,
+              transport animals out of overcrowded kill shelters across the
+              country, and refuse to give up on dogs and cats other
+              organizations consider unadoptable.
             </p>
           </div>
         </Reveal>
@@ -43,7 +41,7 @@ export function Nhs() {
             rel="noopener noreferrer"
             className="inline-block mt-10 py-2 text-text-primary underline underline-offset-4 decoration-accent/50 hover:decoration-accent transition-colors duration-150 font-body text-base"
           >
-            Visit Northshore Humane Society &rarr;
+            Visit {CHARITY.shortName} &rarr;
           </a>
         </Reveal>
       </div>

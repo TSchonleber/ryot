@@ -24,7 +24,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "$RYOT — He made it. Most don't.",
   description:
-    "$RYOT is a memecoin funding the Northshore Humane Society. 90% of fees go directly to a Louisiana no-kill animal rescue.",
+    "$RYOT is a memecoin funding North Shore Animal League America — the world's largest no-kill animal rescue. 90% of pump.fun creator fees go directly to NSAL.",
   metadataBase: new URL("https://ryotcoin.vercel.app"),
   openGraph: {
     title: "$RYOT — He made it. Most don't.",

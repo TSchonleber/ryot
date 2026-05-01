@@ -47,6 +47,19 @@ export function Hero() {
     },
   };
 
+  const storyLinkVariants = {
+    hidden: { opacity: 0, y: reduceMotion ? 0 : 6 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: {
+        duration: reduceMotion ? 0 : 0.6,
+        delay: reduceMotion ? 0 : 1.15,
+        ease: EASE,
+      },
+    },
+  };
+
   const scrollCueVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -149,6 +162,21 @@ export function Hero() {
             animate="visible"
           >
             Meet Ryot. $RYOT exists so more animals get the chance he got.
+          </motion.p>
+
+          {/* Story link — secondary, lands after subhead */}
+          <motion.p
+            className="mt-4 font-body text-sm sm:text-base"
+            variants={storyLinkVariants}
+            initial="hidden"
+            animate="visible"
+          >
+            <a
+              href="/story"
+              className="inline-block py-1 text-text-primary underline underline-offset-4 decoration-accent/50 hover:decoration-accent transition-colors duration-150"
+            >
+              Read his story &rarr;
+            </a>
           </motion.p>
         </div>
       </div>

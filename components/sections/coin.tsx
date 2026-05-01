@@ -107,7 +107,7 @@ export function Coin() {
             <div
               className="h-full bg-accent"
               style={{ width: `${CHARITY_PCT}%` }}
-              aria-label={`${CHARITY_PCT}% Northshore Humane Society`}
+              aria-label={`${CHARITY_PCT}% ${CHARITY.name}`}
             />
             {/* Ops fill */}
             <div
@@ -178,6 +178,17 @@ export function Coin() {
                 </svg>
               </motion.a>
             </div>
+
+            {/* Secondary link to the longform story page */}
+            <p className="mt-6 font-body text-sm text-text-secondary">
+              Want the longer version of why this exists?{" "}
+              <a
+                href="/story"
+                className="inline-block py-1 text-text-primary underline underline-offset-4 decoration-accent/50 hover:decoration-accent transition-colors duration-150"
+              >
+                Read Ryot&apos;s story &rarr;
+              </a>
+            </p>
           </div>
         </Reveal>
 

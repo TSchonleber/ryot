@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "$RYOT — He made it. Most don't.";
+export const alt = "Ryot's Story — Four months old. Two strikes.";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -11,7 +11,7 @@ function getBaseUrl(): string {
   return "http://localhost:3000";
 }
 
-export default async function OgImage() {
+export default async function StoryOgImage() {
   const photoSrc = `${getBaseUrl()}/ryot/pond.jpg`;
 
   return new ImageResponse(
@@ -27,7 +27,6 @@ export default async function OgImage() {
           fontFamily: "serif",
         }}
       >
-        {/* Hero photo, full bleed */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={photoSrc}
@@ -45,18 +44,16 @@ export default async function OgImage() {
           }}
         />
 
-        {/* Cinematic gradient overlay for legibility */}
         <div
           style={{
             position: "absolute",
             inset: 0,
             display: "flex",
             background:
-              "linear-gradient(to top, rgba(26,22,18,0.92) 0%, rgba(26,22,18,0.55) 38%, rgba(26,22,18,0.15) 70%, rgba(26,22,18,0.55) 100%)",
+              "linear-gradient(to top, rgba(26,22,18,0.95) 0%, rgba(26,22,18,0.6) 40%, rgba(26,22,18,0.2) 75%, rgba(26,22,18,0.55) 100%)",
           }}
         />
 
-        {/* Copy block */}
         <div
           style={{
             position: "relative",
@@ -76,11 +73,11 @@ export default async function OgImage() {
               marginBottom: 20,
             }}
           >
-            $RYOT · 90% to North Shore Animal League America
+            $RYOT · His story
           </div>
           <div
             style={{
-              fontSize: 124,
+              fontSize: 96,
               fontWeight: 600,
               lineHeight: 1.0,
               letterSpacing: "-0.02em",
@@ -88,8 +85,8 @@ export default async function OgImage() {
               flexDirection: "column",
             }}
           >
-            <span>He made it.</span>
-            <span style={{ color: "#c97a3f" }}>Most don&#x27;t.</span>
+            <span>Four months old.</span>
+            <span style={{ color: "#c97a3f" }}>Two strikes.</span>
           </div>
         </div>
       </div>
