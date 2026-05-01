@@ -38,6 +38,15 @@ body {
   color: var(--color-bg-base);
 }
 
+@keyframes ryot-pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.85); }
+}
+
+.ryot-pulse-dot {
+  animation: ryot-pulse-dot 2s ease-in-out infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -46,5 +55,9 @@ body {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+
+  .ryot-pulse-dot {
+    animation: none !important;
   }
 }

@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, type HTMLMotionProps } from "framer-motion";
+import { motion, useReducedMotion, type HTMLMotionProps } from "framer-motion";
 import type { ReactNode } from "react";
 
 type RevealProps = {
@@ -21,6 +21,16 @@ export function Reveal({
   once = true,
   ...rest
 }: RevealProps) {
+  const reduce = useReducedMotion();
+
+  if (reduce) {
+    return (
+      <div className={className} {...(rest as React.HTMLAttributes<HTMLDivElement>)}>
+        {children}
+      </div>
+    );
+  }
+
   return (
     <motion.div
       className={className}
