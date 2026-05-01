@@ -62,9 +62,9 @@ const FAQS: FaqItem[] = [
     answer: (
       <>
         <p>
-          Pump.fun creator fees accrue in SOL. On a regular cadence — monthly
-          to start, more frequently as volume grows — those fees are converted
-          to USD and donated directly to {CHARITY.name}.
+          Pump.fun creator fees accrue in SOL. They get converted to USD and
+          donated to {CHARITY.name} on a regular frequency as fees accumulate.
+          The more the coin trades, the more often donations land.
         </p>
         <p className="mt-3">
           A donate.gg integration is in progress. Once live, every donation
