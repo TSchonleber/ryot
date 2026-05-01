@@ -76,23 +76,29 @@ export default function StoryPage() {
           about to run out of options. I knew enough to go.
         </p>
         <p>
-          The first time I saw Ryot, he was smaller than I expected. Quieter,
-          too. Huskies are not quiet dogs. They tell you what they think about
-          everything: the door, the wind, the mailman, you. Ryot was watching.
-          Deciding whether this was another stop or a real one. He&apos;d been
-          here before. He&apos;d been other places before. He didn&apos;t have
-          any reason to assume this one would be different.
+          The first time I saw Ryot, he ran across the field and jumped
+          straight into my arms.
         </p>
-        <p>I took him home that day.</p>
         <p>
-          That&apos;s the moment most rescue stories want to dress up.
-          I&apos;m not going to. There was no music. There was no slow-motion
-          run across a field. There was a four-month-old dog who got into the
-          back seat with the kind of caution you&apos;d expect from an animal
-          that had been packed up and re-packed three times. There was a drive
-          home where neither of us said much. There was a first night in a new
-          apartment where he slept against the door, because he didn&apos;t
-          fully trust he&apos;d still be there in the morning.
+          He had every reason to be cautious. He&apos;d been packed up and
+          re-packed three times in his short life. He didn&apos;t know me. He
+          didn&apos;t know whether this was another temporary stop. None of
+          that mattered to him in the moment. He came at full speed and made
+          up his mind before I&apos;d said a word.
+        </p>
+        <p className="font-display text-text-primary text-xl sm:text-2xl leading-snug !mt-8">
+          That&apos;s the moment I fell in love with him.
+        </p>
+        <p className="!mt-8">
+          Most rescue stories want a scene like that. They reach for it. This
+          one was real. It happened the way I&apos;m telling you it happened.
+        </p>
+        <p>
+          Everything after that was quieter. There was a drive home where
+          neither of us said much. There was a first night in a new apartment
+          where he slept against the door, because he didn&apos;t fully trust
+          he&apos;d still be there in the morning. The love was a single
+          afternoon. The trust took the whole next year.
         </p>
         <p className="font-display text-text-primary text-xl sm:text-2xl leading-snug !mt-8">
           What changed wasn&apos;t dramatic. What changed was that the clock
