@@ -17,7 +17,7 @@ npm run dev
 
 ## Deploy
 
-Pushes to `main` deploy automatically to `ryot.vercel.app`.
+Pushes to `main` deploy automatically to `ryotcoin.vercel.app`.
 
 ## Spec
 

@@ -25,12 +25,12 @@ export const metadata: Metadata = {
   title: "$RYOT — He made it. Most don't.",
   description:
     "$RYOT is a memecoin funding the Northshore Humane Society. 90% of fees go directly to a Louisiana no-kill animal rescue.",
-  metadataBase: new URL("https://ryot.vercel.app"),
+  metadataBase: new URL("https://ryotcoin.vercel.app"),
   openGraph: {
     title: "$RYOT — He made it. Most don't.",
     description:
       "Ryot got a second chance. Most animals don't. $RYOT exists so more do.",
-    url: "https://ryot.vercel.app",
+    url: "https://ryotcoin.vercel.app",
     siteName: "$RYOT",
     type: "website",
   },
