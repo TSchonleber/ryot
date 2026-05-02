@@ -1,0 +1,468 @@
+═══════════════════════════════════════════════════════════════
+$RYOT POST BANK — copy-paste ready, no markdown
+═══════════════════════════════════════════════════════════════
+
+Categories below. Each post is plain text, separated by ── lines.
+The longform post lives separately at marketing/x-longform-post.txt.
+
+
+
+═══════════════════════════════════════════════════════════════
+A. HOOK VARIANTS — single tweets, different angles
+   (test which gets traction; rotate them)
+═══════════════════════════════════════════════════════════════
+
+──── A1. The "only one" angle ────
+
+$RYOT is the only memecoin directing fees to @animalleague — the world's largest no-kill rescue.
+
+90% of every pump.fun creator fee. Named after a husky who got out before the breeder's clock ran out.
+
+ryotcoin.vercel.app
+
+
+──── A2. The personal angle ────
+
+I rescued a husky four years ago. Two families had returned him. The breeder was about to euthanize him.
+
+He's been with me every day since.
+
+I made a coin in his name. 90% of every fee funds the world's largest no-kill rescue.
+
+ryotcoin.vercel.app
+
+
+──── A3. The pure cause angle ────
+
+Your memecoin doesn't fund rescue. $RYOT does.
+
+90% of every pump.fun creator fee → @animalleague. The largest no-kill animal rescue on earth. Founded 1944. Over a million animals placed since.
+
+ryotcoin.vercel.app
+
+
+──── A4. The provocation ────
+
+Most memecoins are noise.
+
+This one funds the largest no-kill rescue in the world.
+
+90% of fees → @animalleague. No salary. No founder cut. Named after the husky who almost didn't make it.
+
+ryotcoin.vercel.app
+
+
+──── A5. Photo hook (post with the pond photo) ────
+
+This is Ryot. Four months old, two families had returned him, the breeder was about to end him.
+
+He got out. Most don't.
+
+$RYOT funds the world's largest no-kill rescue. 90% of every fee → @animalleague.
+
+ryotcoin.vercel.app
+
+
+
+═══════════════════════════════════════════════════════════════
+B. PHOTO POSTS — minimal caption, photo carries the weight
+   (post with pond.jpg, anime.png, or any real Ryot photo)
+═══════════════════════════════════════════════════════════════
+
+──── B1. Pond photo, minimal ────
+
+He made it.
+
+ryotcoin.vercel.app
+
+
+──── B2. Anime portrait, character beat ────
+
+Hero of his own story. Now everyone else's.
+
+90% of $RYOT fees → @animalleague.
+ryotcoin.vercel.app
+
+
+──── B3. Daily check-in template (any photo) ────
+
+Day [X] post-launch.
+
+$[Y] funded for @animalleague so far.
+
+ryotcoin.vercel.app
+
+
+──── B4. Real-life photo + tag ────
+
+Status: 110 pounds of working-breed muscle, asleep on the couch.
+
+The coin he's the namesake of has funded $[X] for @animalleague this week.
+
+ryotcoin.vercel.app
+
+
+──── B5. Side-by-side pond + anime ────
+
+Real Ryot. Anime Ryot. Same dog.
+
+Both alive because someone got there before the breeder's clock ran out.
+
+$RYOT → 90% to @animalleague.
+ryotcoin.vercel.app
+
+
+
+═══════════════════════════════════════════════════════════════
+C. SHITPOSTS WITH STORY UNDERNEATH — meme energy, real
+═══════════════════════════════════════════════════════════════
+
+──── C1. The math ────
+
+Breeder's math: dog can't be sold = dog gets euthanized.
+
+$RYOT's math: coin trades = @animalleague gets funded.
+
+ryotcoin.vercel.app
+
+
+──── C2. The destruction ────
+
+Year one with Ryot: he ate ten thousand dollars of tech.
+
+Year four with Ryot: I made a memecoin in his name that funds the world's largest no-kill rescue.
+
+The cables were worth it.
+
+ryotcoin.vercel.app
+
+
+──── C3. The husky tax ────
+
+If you've ever owned a husky you know they're 110 pounds of opinion in a four-legged frame.
+
+I fund their rescue org with a memecoin now.
+
+90% of $RYOT fees → @animalleague.
+
+ryotcoin.vercel.app
+
+
+──── C4. Honesty hour ────
+
+A four-month-old husky should not be a math problem.
+
+He was.
+
+He isn't anymore. The coin he's named after exists so other dogs aren't either.
+
+90% of fees → @animalleague.
+ryotcoin.vercel.app
+
+
+──── C5. The pitch deck ────
+
+Pitch deck for $RYOT:
+
+slide 1: husky almost died
+slide 2: husky didn't die
+slide 3: 90% of fees fund the world's largest no-kill rescue
+slide 4: that's it
+
+ryotcoin.vercel.app
+
+
+
+═══════════════════════════════════════════════════════════════
+D. EDUCATIONAL THREADS — for depth & SEO
+   (each line below is one tweet in a thread)
+═══════════════════════════════════════════════════════════════
+
+──── D1. "How a memecoin funds rescue" thread (4 tweets) ────
+
+1/ How a memecoin can actually fund rescue:
+
+Every trade on pump.fun generates a small creator fee. Most projects keep 100% of those fees themselves.
+
+$RYOT routes 90% of them directly to @animalleague.
+
+2/ The 10% that stays back covers Solana transaction costs (every donation has a tx fee), plus paid boosts and DEX listings.
+
+No salary. No founder cut. That part is non-negotiable.
+
+3/ The result: every trade increases what NSAL gets.
+
+If the coin moves, NSAL gets paid. If the coin sits still, NSAL gets nothing.
+
+That's the whole design.
+
+4/ Memecoin attention is the fuel. The fuel pays for rescue.
+
+ryotcoin.vercel.app
+CA: CgPu6x6oUs4hwkcNtDvENuBLPRuissJ7nns7rXXFpump
+
+
+──── D2. "Why @animalleague specifically" thread (4 tweets) ────
+
+1/ Why @animalleague is the rescue $RYOT funds:
+
+They are, by any measure that matters, the largest no-kill animal rescue and adoption organization in the world.
+
+2/ Founded 1944. Started by pulling animals out of one local kill shelter. Now they pull from across the country.
+
+Mobile adoption fleets. Transport networks. Medical funds. Animals other shelters have already given up on.
+
+3/ Over a million animals placed into homes across eight decades of doing this work.
+
+If you've ever wondered whether one rescue can actually change the math at scale — they're the proof of concept.
+
+4/ When 90% of $RYOT fees route there, they route to the org that built the no-kill playbook.
+
+ryotcoin.vercel.app
+
+
+──── D3. "The economy of disposable dogs" thread (3 tweets) ────
+
+1/ The thing nobody tells you about how dogs are bought and sold:
+
+Some operations breed dogs to sell, return the unsold ones to the breeder, and quietly dispose of the ones that bounce back too many times.
+
+That's not metaphor. That's how it works.
+
+2/ The dogs that get out usually get out because a no-kill rescue stepped in. Or because someone happened to be standing in the right place at the right moment.
+
+Most aren't either lucky.
+
+3/ $RYOT is named after a dog who was. 90% of fees fund @animalleague — the largest no-kill rescue on earth.
+
+The point is the redirect. ryotcoin.vercel.app
+
+
+
+═══════════════════════════════════════════════════════════════
+E. REPLY TEMPLATES — quick comebacks for common contexts
+═══════════════════════════════════════════════════════════════
+
+──── E1. Someone posts their rescue dog ────
+
+Rescue dogs are the entire reason no-kill rescue is worth fighting for. I made a coin to fund the largest one in the world (@animalleague). 90% of fees go straight to them. ryotcoin.vercel.app
+
+
+──── E2. Someone posts a memecoin pumping ────
+
+Cool. Mine funds the world's largest no-kill animal rescue. 90% of every trade fee → @animalleague. ryotcoin.vercel.app
+
+
+──── E3. Someone asks "what does your coin do" ────
+
+90% of pump.fun creator fees route to @animalleague (world's largest no-kill rescue). 10% covers Solana tx + DEX. No salary, no founder cut. Named after my husky who almost didn't make it. ryotcoin.vercel.app
+
+
+──── E4. Someone says "memecoins are pointless" ────
+
+This one funds the world's largest no-kill animal rescue. 90% of every fee → @animalleague. The point is what's at the end of it. ryotcoin.vercel.app
+
+
+──── E5. Someone says "why should I care about another dog coin" ────
+
+Because no other dog coin sends 90% of fees to @animalleague — the largest no-kill rescue in the world. That's the answer. ryotcoin.vercel.app
+
+
+──── E6. Someone shares NSAL content ────
+
+@animalleague is the entire reason $RYOT exists. 90% of every fee on the coin routes directly to them. ryotcoin.vercel.app
+
+
+──── E7. Someone DMs / asks about the project ────
+
+Short version: my husky Ryot got out before the breeder's clock ran out 4 years ago. I built a memecoin in his name. 90% of every pump.fun creator fee → @animalleague (world's largest no-kill rescue). 10% covers tx, boosts, DEX. No founder cut.
+
+Site: ryotcoin.vercel.app
+Story: ryotcoin.vercel.app/story
+CA: CgPu6x6oUs4hwkcNtDvENuBLPRuissJ7nns7rXXFpump
+
+
+
+═══════════════════════════════════════════════════════════════
+F. PROVOCATIONS — use sparingly (max 1/week)
+═══════════════════════════════════════════════════════════════
+
+──── F1. The differentiator ────
+
+There are thousands of memecoins on pump.fun.
+
+There is one directing fees to @animalleague.
+
+ryotcoin.vercel.app
+
+
+──── F2. The reframe ────
+
+$RYOT isn't a financial product. It's a redirect.
+
+Memecoin attention → @animalleague.
+The largest no-kill rescue on earth.
+90% of every pump.fun fee.
+
+ryotcoin.vercel.app
+
+
+──── F3. The unfollow line ────
+
+If you don't think a memecoin can fund rescue, that's fine.
+
+If you think a memecoin SHOULDN'T, unfollow.
+
+The world's largest no-kill rescue (@animalleague) thinks otherwise. ryotcoin.vercel.app
+
+
+──── F4. The clock ────
+
+Animals don't have time.
+
+The coin moves the clock.
+
+90% of every $RYOT fee → @animalleague.
+ryotcoin.vercel.app
+
+
+
+═══════════════════════════════════════════════════════════════
+G. ENGAGEMENT BAIT — invite replies, build community
+═══════════════════════════════════════════════════════════════
+
+──── G1. The destruction question ────
+
+What's the most expensive thing your rescue dog has ever destroyed?
+
+I'll start: ~$10K of tech in year one. Worth it. He turns 5 in November.
+
+
+──── G2. Show me your rescue ────
+
+Quote this with a picture of your rescue. I want to see them.
+
+Then go look at $RYOT — 90% of every fee funds @animalleague.
+
+ryotcoin.vercel.app
+
+
+──── G3. The story bait ────
+
+Every rescue dog has a "they almost didn't make it" story. What's yours?
+
+(Mine's at ryotcoin.vercel.app/story.)
+
+
+──── G4. The breed-specific bait ────
+
+Huskies destroying their owners' apartments: a thread of evidence.
+
+I'll go first.
+
+
+──── G5. The number drop ────
+
+Tens of thousands of dogs run out of time at breeders, shelters, and operations every year.
+
+What's one no-kill rescue you'd put your money behind?
+
+(Mine: @animalleague. $RYOT funds them. ryotcoin.vercel.app)
+
+
+
+═══════════════════════════════════════════════════════════════
+H. MILESTONE TEMPLATES — fill in numbers, post when they hit
+═══════════════════════════════════════════════════════════════
+
+──── H1. First donation ────
+
+Just sent the first donation to @animalleague from $RYOT fees.
+
+$[X].
+
+This is what we said the coin would do. The coin did it.
+
+More to come. ryotcoin.vercel.app
+
+
+──── H2. First $1K to NSAL ────
+
+$1,000 funded for @animalleague from $RYOT fees.
+
+That's a number measured in actual rescued animals.
+
+Coin moves = NSAL gets paid. Always. ryotcoin.vercel.app
+
+
+──── H3. First $10K to NSAL ────
+
+$10,000 funded for @animalleague from $RYOT fees.
+
+Six weeks ago this was a memecoin idea about a husky. Now it's funding the largest no-kill rescue on earth.
+
+Memecoins can do this. ryotcoin.vercel.app
+
+
+──── H4. Holder milestone ────
+
+$RYOT just hit [X] holders.
+
+Every one of them is funding @animalleague — the world's largest no-kill rescue.
+
+[X] strangers. One cause. Welcome.
+
+ryotcoin.vercel.app
+
+
+──── H5. NSAL engagement ────
+
+@animalleague engaged with the post.
+
+The org $RYOT exists to fund just acknowledged us.
+
+This is the whole point. Thank you for what you do.
+
+Coin moves = you get paid. Always. ryotcoin.vercel.app
+
+
+──── H6. Tracker live ────
+
+The live donation tracker on ryotcoin.vercel.app is live.
+
+You can watch every dollar route to @animalleague in real time.
+
+That's the whole accountability layer of this. No black box. ryotcoin.vercel.app
+
+
+
+═══════════════════════════════════════════════════════════════
+I. QUOTE-TWEET TEMPLATES — when to amplify what
+═══════════════════════════════════════════════════════════════
+
+──── I1. When @animalleague posts a rescue story ────
+
+This is exactly what 90% of $RYOT fees fund.
+
+Every coin trade extends a clock for an animal like this one. ryotcoin.vercel.app
+
+
+──── I2. When a breeder gets exposed ────
+
+This is the alternative those animals deserve: @animalleague — the largest no-kill rescue in the world. $RYOT directs 90% of every fee here. ryotcoin.vercel.app
+
+
+──── I3. When a memecoin charity claim is exposed as fake ────
+
+The reason most "charity coin" claims are bullshit is they don't show the math.
+
+$RYOT shows it: 90% of pump.fun fees → @animalleague. 10% covers tx/DEX. No founder cut. ryotcoin.vercel.app/story
+
+
+──── I4. When a "memecoin moment" goes viral ────
+
+Mine funds the world's largest no-kill animal rescue.
+
+90% of every fee → @animalleague.
+
+Memecoins can mean something. ryotcoin.vercel.app
